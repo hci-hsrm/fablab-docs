@@ -2,7 +2,7 @@ title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://hsrm-hci.github.io/fablab-docs
+url: https://hci-hsrm.github.io/fablab-docs
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
