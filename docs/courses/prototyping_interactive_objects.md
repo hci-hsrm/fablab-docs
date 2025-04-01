@@ -6,9 +6,15 @@ nav_order: 3
 
 ## Course Overview
 
-## Hardware Boxes
+The design of interactive hardware and software prototypes is a central component of Human-Computer Interaction (HCI). 
+This course held at [Hochschule RheinMain](https://www.hs-rm.de/en/) in Summer 2025 by Professor [Marion Koelle](https://www.hs-rm.de/de/hochschule/personen/koelle-marion) is designed for students who are interested in combining hardware and software to design creative, interactive systems. 
+Students learn the basics of electronics, circuit design and microcontroller programming and work with various sensors (e.g. light and accelerometers) and actuators (e.g. servomotors and LEDs).
+
+## Arduino Exercise and Project Kits (aka "Hardware Boxes")
 
 ### BOM (aka "Bill of Materials")
+
+The following components are included in v01 of the Arduino Exercise and Project Kit: 
 
 | Item included in the Box                             | Amount | Technical Information                                                                                                                                                           | Supplier                                                                                                                                                                                                                                                                      |
 | ---------------------------------------------------- |--------| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
